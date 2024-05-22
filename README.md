@@ -163,5 +163,5 @@ ASP.NET应用系统设计与开发实战项目BookShop，完整项目在BookShop
 
 ## 参与贡献
 
-[张德鑫]([zdx-1 (zdx-1) - Gitee.com](https://gitee.com/zdx-1)) 202204102013
+[张德鑫]([zdx-1 (zdx-1) - Gitee.com](https://gitee.com/zdx-1))
 
